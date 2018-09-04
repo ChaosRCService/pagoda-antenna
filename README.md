@@ -1,4 +1,4 @@
-# pagoda-antenna design by maarten
+# pagoda-antenna orginally designed by Maarten Baert, Modified by Geoff Simpson for the Stubby version
 
 A further evolution of the Pagoda Antenna, the Stubby Pagoda design.
 
